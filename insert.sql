@@ -1,7 +1,7 @@
 INSERT INTO publisher (id, name, country) values(1, 'PHI', 'India');
 INSERT INTO publisher (id, name, country) values(2, 'Harper', 'USA');
 INSERT INTO publisher (id, name, country) values(3, 'GCP', 'USA');
-INSERT INTO publisher (id, name, country) values(4, 'Avery', 'USA');
+INSERT INTO publisher (id, name, country) values(4, 'Atomic Habits', 'USA');
 INSERT INTO publisher (id, name, country) values(5, 'Del Rey', 'UK');
 INSERT INTO publisher (id, name, country) values(6, 'Vintage', 'UK');
 
